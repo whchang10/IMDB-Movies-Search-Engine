@@ -1,5 +1,5 @@
 # IMDb Movie Search Application
-- Designed database scheme and establish tables.
+- Designed database scheme and established tables.
 - Developed a movie search application which supports querying by genera, country, filming location country, critics' rating, year, and movie tags.<br>
 
 UI example<br>
